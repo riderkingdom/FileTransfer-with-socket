@@ -1,0 +1,3 @@
+﻿  fileOperation.cpp
+D:\C_Project\FtpFileTransfer\tcpSocket\fileOperation.cpp(47,50): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  client.vcxproj -> D:\C_Project\FtpFileTransfer\x64\Debug\client.exe
